@@ -1,3 +1,12 @@
 {
-  "wallpapers": []
+  "app_config": {
+    "main_logo": "https://dummyimage.com/800x200/1a1a1a/00f0ff&text=My+Custom+Logo"
+  },
+  "category_folders": [],
+  "presets": [],
+  "custom_library": {
+    "layer1_backgrounds": [],
+    "layer2_midgrounds": [],
+    "layer3_foregrounds": []
+  }
 }
