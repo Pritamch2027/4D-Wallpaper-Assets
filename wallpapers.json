@@ -1,9 +1,43 @@
 {
   "app_config": {
-    "main_logo": "https://dummyimage.com/800x200/1a1a1a/00f0ff&text=My+Custom+Logo"
+    "main_logo": "https://raw.githubusercontent.com/YourRepo/logo.png"
   },
-  "category_folders": [],
-  "presets": [],
+  "presets": [
+    {
+      "id": "anime_static_01",
+      "name": "Static Anime Scene",
+      "type": "4K",
+      "category": "Anime",
+      "isTrending": true,
+      "thumbnail": "URL_TO_THUMBNAIL",
+      "layers": [
+        "URL_TO_SINGLE_STATIC_IMAGE"
+      ]
+    },
+    {
+      "id": "anime_parallax_01",
+      "name": "Parallax Anime Scene",
+      "type": "4D",
+      "category": "Anime",
+      "isTrending": false,
+      "thumbnail": "URL_TO_THUMBNAIL",
+      "layers": [
+        "URL_LAYER_1_BG",
+        "URL_LAYER_2_MG",
+        "URL_LAYER_3_FG"
+      ],
+      "motion": {
+        "l1X": 20, "l1Y": 20, "l1Z": 0,
+        "l2X": 35, "l2Y": 35, "l2Z": 20,
+        "l3X": 50, "l3Y": 50, "l3Z": 60
+      },
+      "placement": {
+        "l1Scale": 1.1, "l1PanX": 0, "l1PanY": 0,
+        "l2Scale": 1.1, "l2PanX": 0, "l2PanY": 0,
+        "l3Scale": 1.1, "l3PanX": 0, "l3PanY": 0
+      }
+    }
+  ],
   "custom_library": {
     "layer1_backgrounds": [],
     "layer2_midgrounds": [],
