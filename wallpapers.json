@@ -27,15 +27,15 @@
         "https://raw.githubusercontent.com/Pritamch2027/4D-Wallpaper-Assets/refs/heads/main/Presets/Layer3_FGs/eh4h5.png"
       ],
       "motion": {
-  "l1X": 20, "l1Y": 20, "l1Z": 0,
-  "l2X": 35, "l2Y": 35, "l2Z": 20,
-  "l3X": 50, "l3Y": 50, "l3Z": 60
-},
-"placement": {
-  "l1Scale": 0.78, "l1PanX": 0, "l1PanY": 0,
-  "l2Scale": 0.72, "l2PanX": -0.005, "l2PanY": 0.012,
-  "l3Scale": 0.2, "l3PanX": 0.198, "l3PanY": 0.214
-}
+      "l1X": 20, "l1Y": 20, "l1Z": 0,
+     "l2X": 35, "l2Y": 35, "l2Z": 20,
+     "l3X": 50, "l3Y": 50, "l3Z": 60
+      },
+     "placement": {
+     "l1Scale": 0.78, "l1PanX": 0, "l1PanY": 0,
+     "l2Scale": 0.72, "l2PanX": -0.005, "l2PanY": 0.012,
+     "l3Scale": 0.2, "l3PanX": 0.238, "l3PanY": 0.243
+      }
     }
   ],
   "custom_library": {
