@@ -20,22 +20,22 @@
       "type": "4D",
       "category": "Anime",
       "isTrending": false,
-      "thumbnail": "URL_TO_THUMBNAIL",
+      "thumbnail": "https://raw.githubusercontent.com/Pritamch2027/4D-Wallpaper-Assets/refs/heads/main/Presets/Thumbnails/fantasy%201.jpg",
       "layers": [
-        "URL_LAYER_1_BG",
-        "URL_LAYER_2_MG",
-        "URL_LAYER_3_FG"
+        "https://raw.githubusercontent.com/Pritamch2027/4D-Wallpaper-Assets/refs/heads/main/Presets/Layer1_BGs/tlllhdt.jpg",
+        "https://raw.githubusercontent.com/Pritamch2027/4D-Wallpaper-Assets/refs/heads/main/Presets/Layer2_Mid/ytk6or6kr.png",
+        "https://raw.githubusercontent.com/Pritamch2027/4D-Wallpaper-Assets/refs/heads/main/Presets/Layer3_FGs/eh4h5.png"
       ],
       "motion": {
-        "l1X": 20, "l1Y": 20, "l1Z": 0,
-        "l2X": 35, "l2Y": 35, "l2Z": 20,
-        "l3X": 50, "l3Y": 50, "l3Z": 60
+      "l1X": 10, "l1Y": 10, "l1Z": 0,
+      "l2X": 17, "l2Y": 16, "l2Z": 0,
+      "l3X": 32, "l3Y": 32, "l3Z": 0
       },
       "placement": {
-        "l1Scale": 1.1, "l1PanX": 0, "l1PanY": 0,
-        "l2Scale": 1.1, "l2PanX": 0, "l2PanY": 0,
-        "l3Scale": 1.1, "l3PanX": 0, "l3PanY": 0
-      }
+      "l1Scale": 1.08, "l1PanX": 0.025, "l1PanY": 0.048,
+      "l2Scale": 1.1, "l2PanX": -0.013, "l2PanY": 0.021,
+      "l3Scale": 0.23, "l3PanX": 0.164, "l3PanY": 0.221
+     }
     }
   ],
   "custom_library": {
