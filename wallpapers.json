@@ -26,7 +26,7 @@
         "https://raw.githubusercontent.com/Pritamch2027/4D-Wallpaper-Assets/refs/heads/main/Presets/Layer2_Mid/ytk6or6kr.png",
         "https://raw.githubusercontent.com/Pritamch2027/4D-Wallpaper-Assets/refs/heads/main/Presets/Layer3_FGs/eh4h5.png"
       ],
-  "motion": {
+ "motion": {
   "l1X": 30, "l1Y": 31, "l1Z": 0,
   "l2X": 14, "l2Y": 14, "l2Z": 0,
   "l3X": 5, "l3Y": 5, "l3Z": 0
@@ -34,7 +34,7 @@
 "placement": {
   "l1Scale": 0.86, "l1PanX": 0.008, "l1PanY": -0.005,
   "l2Scale": 0.78, "l2PanX": -0.003, "l2PanY": 0.005,
-  "l3Scale": 0.2, "l3PanX": 0.979, "l3PanY": 0.934
+  "l3Scale": 0.2, "l3PanX": 1.082, "l3PanY": 0.988
 }
     }
   ],
